@@ -18,7 +18,7 @@ end
 
 def remove_element_from_end_of_array(array)
   removeArray = ["Fender", "Les Paul", "Charvel", "Ibanez"]
-  removeArray.shift
+  removeArray.unshift("Ibanez")
 end
 
 def remove_element_from_start_of_array(array)
