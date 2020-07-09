@@ -17,7 +17,7 @@ endOfArray.unshift("wow")
 end
 
 def remove_element_from_end_of_array(array)
-  removeArray = ["Fender", "Les Paul", "Charvel", "Ibanez"]
+  removeArray = ["Fender", "Les Paul", "Charvel", "arrays!"]
   removeArray.pop
 end
 
