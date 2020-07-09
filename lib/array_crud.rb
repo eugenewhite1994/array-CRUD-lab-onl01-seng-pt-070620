@@ -12,8 +12,8 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-endOfArray = ["Me", "Kaelyn"]
-endOfArray.unshift("Luna")
+endOfArray = ["Me", "Kaelyn", "Luna"]
+endOfArray.unshift
 end
 
 def remove_element_from_end_of_array(array)
